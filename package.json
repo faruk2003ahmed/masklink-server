@@ -1,12 +1,12 @@
 {
-  "name": "my-masklink-server",
+  "name": "masklink-backend",
   "version": "1.0.0",
-  "description": "MaskLink server running on Render",
+  "description": "Backend for MaskLink application",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
-  "author": "Your Name",
+  "author": "aamirsohel",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
